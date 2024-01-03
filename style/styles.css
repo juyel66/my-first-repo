@@ -1,17 +1,23 @@
+.header{
+   
+    background-image:  url("collage-friends.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    width: 1100px;
+}
 .my_first_repo{
     background-color: yellow;
     width: 50%;
-    font-size: 40px;
 }
 p{
-    background-color: greenyellow;
-    width: 50%;
-}
-h3{
-    background-color: greenyellow;
-    width: 50%;
+    color: blue;
 }
 h1{
-    background-color: blanchedalmond;
+    background-color: rgb(85, 93, 247);
+    width:50%;
+}
+h3{
+    background-color: blueviolet;
     width: 50%;
 }
+
